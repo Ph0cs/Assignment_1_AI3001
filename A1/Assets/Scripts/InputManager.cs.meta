@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a73265933faf94e4bb3045662853567f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - seekBehavior: {fileID: 7351999055186997314, guid: a8b1cc730270de04fa578661b581d752,
+      type: 3}
+  - fleeingBehavior: {instanceID: 0}
+  - arrivalBehavior: {instanceID: 0}
+  - obstacleAvoidanceBehavior: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
